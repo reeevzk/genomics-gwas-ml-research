@@ -8,7 +8,7 @@ The work applies GWAS-style statistical models and population-structure correcti
 high-dimensional genomic data. Further, the project employs Quantitative Trait Loci (QTL) analysis for identification of genotype-phenotype relations. Due to data-use and confidentiality constraints, source code and raw datasets
 are not publicly released. This repository serves as a technical summary and research artifact.
 
-## Problem Framing
+## Problem
 
 Environmental stressors such as drought significantly impact crop yield. This project investigates whether
 specific genetic variants (SNPs) are statistically associated with phenotypes known to correlate with drought
@@ -37,7 +37,7 @@ Phenotypes analyzed include:
 - Protein content
 
 
-## Results Summary
+## Results
 
 The analysis identified multiple SNPs with high statistical significance associated with drought-related
 phenotypes. Several of these loci were linked to genes involved in:
